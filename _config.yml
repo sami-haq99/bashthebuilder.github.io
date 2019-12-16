@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Shoaib Jameel"
   avatar           : "Shoaib_essex.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Lecturer in Computer Science and Artificial Intelligence, The University of Essex"
+  location         : "Essex"
+  employer         : The University of Essex
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
