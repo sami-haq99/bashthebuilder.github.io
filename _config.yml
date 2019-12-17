@@ -5,12 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-UK"
 title                    : "Shoaib Jameel"
 title_separator          : "-"
 name                     : &name "Shoaib Jameel"
-description              : &description "Lecturer in Computer Science and Artificial Intelligence, School of Computer Science and Electronic Engineering, The University of Essex"
+description              : &description "Lecturer in Computer Science and Artificial Intelligence, School of Computer Science and Electronic Engineering, The University of Essex."
 url                      : https://bashthebuilder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bashthebuilder/bashthebuilder.github.io"
@@ -81,40 +82,40 @@ analytics:
 # Site Author
 author:
   name             : "Shoaib Jameel"
-  avatar           : "Shoaib_essex.jpeg"
-  bio              : "Lecturer in Computer Science and Artificial Intelligence, The University of Essex"
-  location         : "Essex"
+  avatar           : "Shoaib_essex.png"
+  bio              : "Lecturer in Computer Science and Artificial Intelligence, The University of Essex."
+  location         : "Colchester, Essex"
   employer         : The University of Essex
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=gyy0YOIAAAAJ&hl=en"
+  email            : "msjameel@se.cuhk.edu.hk"
+  researchgate     :  # example: "https://www.researchgate.net/scientific-contributions/70058202_Shoaib_Jameel"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "msjameel"
   foursquare       :
   github           : "bashthebuilder"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "shoaibjameel123"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "shoaib-jameel-13751325"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    :
+  steam            : 
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "shoaibjameel123"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "shoaibjameel123"
+  wikipedia        : 
 
 
 # Reading Files
