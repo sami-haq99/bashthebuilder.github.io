@@ -1,9 +1,10 @@
 ---
-permalink: /markdown/
-title: "News"
+permalink: /
+title: ""
+excerpt: "News"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /news/
   - /news.html
 ---
 
