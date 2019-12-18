@@ -73,7 +73,7 @@ antonio_cswd.png
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
 | 2015 | A Unified Posterior Regularized Topic Model with Maximum Margin for Learning-to-Rank | CIKM | [PDF](http://orca.cf.ac.uk/84841/1/cikm2015_shoaib.pdf) |
-| 2015 | Supervised Topic Models with Word Order Structure for Document Classification and Retrieval Learning | AIRS | [PDF](/files/irj-shoaib.pdf) |
+| 2015 | Supervised Topic Models with Word Order Structure for Document Classification and Retrieval Learning | IRJ | [PDF](/files/irj-shoaib.pdf) |
 
 # **8. Readability with Word Order**
 <img src="/images/mario_model.png" width="900">
