@@ -60,7 +60,6 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 # **6. Collaboration Systems and Technologies**
 <img src="/images/antonio_cswd.png" width="500">
 
-antonio_cswd.png
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
 | 2019 | The Effect of Scientific Collaboration on CSCW Research: A Scientometric Study | CSCWD | [PDF](/files/Camera_Ready_CSCWD_Scientific_Collaboration.pdf) |
