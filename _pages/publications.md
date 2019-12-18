@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-*This is not an exhaustive list of my publications. In this page, I have tried to highlight some of the interesting projects that I have worked on in the past where I proposed novel computational methods. For a detailed list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=gyy0YOIAAAAJ&hl=en) page or my CV, which is available upon request.*
+*This is not an exhaustive list of my publications. In this page, I have tried to highlight some of the interesting projects that I have worked on in the past where I proposed novel computational methods. For a detailed list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=gyy0YOIAAAAJ&hl=en) page or my CV.*
 
 # **1. Conceptual Spaces**
 <img src="/images/conceptual_spaces_psychology.png" width="400"> <img src="/images/interpretable_embeding.png" width="400">
