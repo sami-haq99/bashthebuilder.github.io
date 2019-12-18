@@ -24,3 +24,11 @@ I am currently exploring research topics in the following areas. **Please feel f
 
 
 **3. Exploring Urban Lifestyle Patterns**: The goal is to recommend or retrieve interesting and relevant points-of-interest to a user or a group of users using urban patterns (extension of my work with MSRA). A noticeable difference from the traditional recommendation algorithms is that I intend to recommend points-of-interest based on the urban lifestyle patterns discovered using graphical models. In addition, novel unified models (combining two or more machine learning paradigms into one) for urban human lifestyle generation and recommendation would be proposed to further improve upon the results. Subsequently, I will explore recommendation based on the [demand estimation model](http://wwwconference.org/proceedings/www2011/proceedings/p327.pdf) jointly trained with a graphical model. To this end, the recommendation model would predict an optimal choice despite the choice may slightly deviate from the ideal or in other words, recommend an item that would give the best return to an individual satisfying a particular desired criteria.
+
+
+Some useful information for prospective applicants:
+
+1. Why the Univesrity of Essex for research? [Link](https://www.essex.ac.uk/research)
+2. Why the School of Computer Science and Electronic Engineering? [Link](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research)
+3. How about my surroundings? [Link](https://www.essex.ac.uk/life/colchester-campus)
+4. Why choose me as your research supervisor? You will get a chance to explore something that you are passionate about. You will get a chance to work with my collaborative network. You will be encouraged to attend conferences all over the world. You will get freedom to build your collaborative networks. Most importantly, I will be available to meet you often. 
