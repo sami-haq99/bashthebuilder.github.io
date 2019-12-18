@@ -41,7 +41,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2018 | Unsupervised Learning of Distributional Relation Vectors | ACL | [PDF](https://www.aclweb.org/anthology/P18-1003/) |
 
 # **4. Human-Machine Cooperation and Systems**
-<img src="/images/antonio_human.png" width="500">
+<img src="/images/antoio_human.png" width="500">
 
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
