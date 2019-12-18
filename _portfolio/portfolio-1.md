@@ -28,9 +28,9 @@ I am currently exploring research topics in the following areas. **Please feel f
 
 Some useful information for prospective applicants:
 
-1. Why the University of Essex for research? [Link](https://www.essex.ac.uk/research)
-2. Why the School of Computer Science and Electronic Engineering? [Link](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research)
+1. Why choose the University of Essex for research? [Link](https://www.essex.ac.uk/research)
+2. Why school the School of Computer Science and Electronic Engineering? [Link](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research)
 3. How about my surroundings? [Link](https://www.essex.ac.uk/life/colchester-campus)
 4. How do I apply to your PhD programme? [Link](https://www.essex.ac.uk/postgraduate-research-degrees/applying-to-essex)
-5. Is there any scholarship available? While the UK has some scholarships for local UK/EU students, scholarships for international (non-UK/EU) candidates are limited. There are students who get scholarships from their government in their respective countries and they are most welcome to discuss their research proposals with me. If you need a support letter to apply for a scholarship, please get in touch with me. [This](https://www1.essex.ac.uk/fees-and-funding/research/scholarships/default.aspx) link might be of some interest.
+5. Are there any scholarships available? While the UK has some scholarships for local UK/EU students, scholarships for international (non-UK/EU) candidates are limited. There are students who get scholarships from their government in their respective countries and they are most welcome to discuss their research proposals with me. If you need a support letter to apply for a scholarship, please get in touch with me. [This](https://www1.essex.ac.uk/fees-and-funding/research/scholarships/default.aspx) link might be of some interest.
 6. Why choose me as your research supervisor? You will get a chance to explore something that you are passionate about. You will get a chance to work with my collaborative network. You will be encouraged to attend conferences all over the world. You will get the freedom to build your collaborative networks. Most importantly, I will be available to meet you often - just knock at my office door without a prior appointment (*only for my research students*).
