@@ -58,7 +58,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2015 | Abstract Venue Concept Detection from Location-Based Social Networks | AIRS | [PDF](/files/airs-yiliao.pdf) |
 
 # **6. Collaboration Systems and Technologies**
-<img src="/images/antonio_cswd.png" width="500">
+<img src="/images/antonio_cswd.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
