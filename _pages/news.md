@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "News"
+permalink: /news/
 author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
 ---
 
 * [18 December 2019]: I am serving in the Programme Committee of ACL 2020.
