@@ -19,6 +19,7 @@ Two of my works have won the **best paper award** in competitive venues, one of 
 
 My main passion is to propose new mathematical models that pose strong computational challenges. To this end, I propose methods that are scalable and novel. I am passionate about both theoretical and applied machine learning which is evident from my works that propose novel mathematical models followed by a wide range of empirical analysis on different tasks. Some of the findings during my PhD were used to design a conference analytics framework for the speech community.
 
+________________________________________________________________________________________________________________________________________
 
 Among various others, I am also currently exploring research topics in the following areas. **Please feel free to discuss further if you are interested either in research collaboration or pursuing your research with me.**
 
