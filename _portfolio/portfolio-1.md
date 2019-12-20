@@ -5,7 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<img src="/images/word_cloud_research.png" width="400">
+<img src="/images/word_cloud_research.png" width="600">
+*Word cloud obtained from my research paper titles*
 
 I have been working on topics in machine learning from the beginning of my PhD. I have proposed several novel computational models to generate low-dimensional representations shown to be useful in information retrieval, artificial intelligence, and natural language processing. For example, I have proposed new vector space embedding models and have published them in premier natural language processing, information retrieval and artificial intelligence conferences. I have proposed and published several novel probabilistic topic models in top-tier information retrieval conferences and journals. Overall as a researcher, I have published in several highly selective conferences and journals, such as ACM International Conference on Information and Knowledge Management (CIKM), International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), European Conference on Information Retrieval (ECIR), Transactions on Information Systems (TOIS), International Conference on Computational Linguistics (COLING), European Conference on Artificial Intelligence (ECAI), AAAI Conference on Artificial Intelligence (AAAI), Information Retrieval Journal (IRJ), among others. I am also passionate about proposing novel methods in machine learning where two or more machine learning paradigms are combined as a [single model](/files/irj-shoaib.pdf).
 
