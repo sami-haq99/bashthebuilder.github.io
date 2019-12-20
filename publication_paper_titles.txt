@@ -1,0 +1,37 @@
+Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context
+Adaptive Concept Resolution for Document Representation and Its Applications in Text Mining
+Supervised Topic Models with Word Order Structure for Document Classification and Retrieval Learning
+`Caught Between Worlds': Leveraging Crowd Science and AI for Supporting Scientific Work Practices
+An unsupervised ranking method based on a technical difficulty terrain
+Ranking Text Documents based on Conceptual Difficulty using Term Embedding and Sequential Discourse Cohesion
+An Unsupervised Technical Readability Ranking Model by Building a Conceptual Terrain in LSI
+An unsupervised technical difficulty ranking model based on conceptual terrain in the latent space
+N-gram Fragment Sequence Based Unsupervised Domain-Specific Document Readability
+An N-gram Topic Model for Time-Stamped Documents
+An Unsupervised Topic Segmentation Model Incorporating Word Order
+A Nonparametric N-Gram Topic Model with Interpretable Latent Topics
+Website Community Mining from Query Logs with Two-phase Clustering
+Nonparametric Topic Modeling using Chinese Restaurant Franchise with Buddy Customers
+Topic Modeling for Conference Analytics
+A Unified Posterior Regularized Topic Model with Maximum Margin for Learning-to-Rank
+Abstract Venue Concept Detection from Location-Based Social Networks
+Learning Track Representation and Trends for Conference Analytics
+Plausible Reasoning based on Qualitative Entity Embeddings
+Entity Embeddings with Conceptual Subspaces as a Basis for Plausible Reasoning
+Who Wants to Join Me? Companion Recommendation in Location Based Social Networks
+Exploring Urban Lifestyles Using a Nonparametric Temporal Graphical Model
+D-GloVe: A Feasible Least Squares Model for Estimating Word Embedding Densities
+Inductive Reasoning about Ontologies Using Conceptual Spaces
+MEmbER: Max-Margin Based Embeddings for Entity Retrieval
+Jointly Learning Word Embeddings and Latent Topics
+Modeling Context Words as Regions: An Ordinal Regression Approach to Word Embedding
+Unsupervised Learning of Distributional Relation Vectors
+Relation Induction in Word Embeddings Revisited
+Word Embedding as Maximum A Posteriori Estimation
+The Effect of Scientific Collaboration on CSCW Research: A Scientometric Study
+A Latent Variable Model for Learning Distributional Relation Vectors
+Word and Document Embedding with vMF-Mixture Priors on Context Word Vectors
+Towards Hybrid Crowd-AI Centered Systems: Framework and Literature Overview
+Development of a Crowd-Enabled System Architecture for Data-Driven Scientific Practices
+On the Socio-Technical Aspects of Crowdsourcing as a Mechanism for Academic Study: Conceptual Framework and Scoping Review
+SciCrowd: A crowd-AI system for supporting crowd work in scientific research
