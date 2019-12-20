@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________
 <p align="center">
-<img src="/images/member_sigir.png" width="600">
+<img src="/images/member_sigir.png" width="500">
 </p>
 
 **2. Ordinal conceptual spaces for Information Retrieval**: Most existing low-dimensional vector spaces, which are mainly trained by optimising similarity, have proven to be useful in Information Retrieval (IR), but the recently proposed conceptual vector spaces (by me) have not been thoroughly investigated in ad-hoc IR on a large-scale. In particular, the proposal will explore novel ordinal conceptual spaces which have shown promising results recently in an [entity retrieval task](https://orca-mwe.cf.ac.uk/100910/1/MEmbER___SIGIR_2017-10.pdf), but relies upon a controlled vocabulary and a knowledge-base which significantly restricts its widespread application. Raw text is often noisy and may not give faithful co-occurrence data. To this end, the role of the [web tables dataset](http://webdatacommons.org/webtables/) would be investigated and how it could be used as side-information. To effectively and efficiently realise the project, novel computational methods to jointly model ordinal representations with an IR framework on a large-scale would be proposed. The joint learning machinery would take advantage of the complementary strengths of both frameworks thereby reducing error propagation.
