@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-9. **16 March 2020**: I am one of the Co-PIs in the [TT-Education](https://www.tteducation.co.uk/primary/about-us/) KTP grant.
+9. **16 March 2020**: I am one of the Co-PIs in the [TT-Education]'s(https://www.tteducation.co.uk/primary/about-us/) KTP grant.
 8. **16 March 20202**: Welcome Mozhgan Talebpour as my new RA.
 7. **16 MARCH 2020**: Welcome Mahsa Abazari Kia as my PhD student. Mahsa is funded by [BT](https://www.bt.com/).
 6. **16 March 2020**: I am serving on the programme committees of [CIKM-2020](https://cikm2020.org/) and [IJCAI-2020](https://ijcai20.org/).
