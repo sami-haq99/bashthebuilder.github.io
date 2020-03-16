@@ -3,7 +3,7 @@
 title: "Text Analytics"
 collection: teaching
 type: "Undergraduate and Masters course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "School of Computer Science and Electronic Engineering, The University of Essex"
 date: 2020-03-16
 location: "Colchester, Essex"
