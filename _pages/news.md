@@ -4,6 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+8. **16 March 20202**: Welcome Mozhgan Talebpour as my new RA.
+7. **16 MARCH 2020**: Welcome Mahsa Abazari Kia as my PhD student. Mahsa is funded by [BT](https://www.bt.com/).
 6. **16 March 2020**: I am serving on the programme committees of [CIKM-2020](https://cikm2020.org/) and [IJCAI-2020](https://ijcai20.org/).
 5. **03 February 2020**: My student's full paper has been accepted in [CSCWD 2020](http://114.116.212.33/index.html).
 4. **02 January 2020**: My student's paper is now competing for the Best Paper Award at HICSS-2020 in Hawaii.
