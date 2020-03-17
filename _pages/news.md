@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-10. **16 March 2020**: I am serving as a reviewer in [Computational Linguistics](https://www.mitpressjournals.org/loi/coli) journal.
+10. **16 March 2020**: I am on the reviewer panel in [Computational Linguistics](https://www.mitpressjournals.org/loi/coli) journal.
 9. **16 March 2020**: I am one of the Co-PIs in the [TT-Education](https://www.tteducation.co.uk/primary/about-us/)'s KTP grant.
 8. **16 March 20202**: Welcome Mozhgan Talebpour as my new RA.
 7. **16 March 2020**: Welcome Mahsa Abazari Kia as my PhD student. Mahsa is funded by [BT](https://www.bt.com/).
