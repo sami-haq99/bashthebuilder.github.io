@@ -1,4 +1,3 @@
-
 ---
 title: "Text Analytics"
 collection: teaching
