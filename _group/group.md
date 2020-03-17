@@ -5,4 +5,4 @@ permalink: /group/
 author_profile: true
 ---
 
-This page is about research group.
+My team currently comprises of the following members:
