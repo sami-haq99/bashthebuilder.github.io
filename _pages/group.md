@@ -15,3 +15,5 @@ My team currently comprises of the following members whom I supervise directly:
 
 I also actively collaborate with the leading people in the academia and industries such as:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
+
+2. **Lidong Bing**: [Lidong](https://lidongbing.github.io/) is based in Alibaba DAMO Academy in Singapore. He is not only my collaborator but also a very close friend. He is an active researcher publishing consistently in leading venues.
