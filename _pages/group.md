@@ -19,3 +19,5 @@ I also actively collaborate with the leading people in the academia and industri
 2. **Lidong Bing**: [Lidong](https://lidongbing.github.io/) is based in Alibaba DAMO Academy in Singapore. He is not only my collaborator but also a very close friend. He is an active researcher publishing consistently in leading venues.
 
 3. **Zied Bouraoui**: [Zied](http://www.cril.univ-artois.fr/~bouraoui/index.html) who is based in CRIL, France. I had got an opportunity to work with Zied at [Cardiff University](https://www.cardiff.ac.uk/).
+
+I have also collaborated with some other active researchers such as [Jose](http://josecamachocollados.com/) and [Luis](https://luisespinosa.bitbucket.io/) both based in Cardiff University.
