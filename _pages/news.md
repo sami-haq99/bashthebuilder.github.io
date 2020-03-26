@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-11. **26 March 2020**: I am on the PC committee of [AACL-IJCNLP 2020](http://aacl2020.org/)
+11. **26 March 2020**: I am on the Programme Committee of [AACL-IJCNLP 2020](http://aacl2020.org/)
 10. **16 March 2020**: I am serving on the reviewer panel in [Computational Linguistics](https://www.mitpressjournals.org/loi/coli) journal.
 9. **16 March 2020**: I am one of the Co-PIs in the [TT-Education](https://www.tteducation.co.uk/primary/about-us/)'s KTP grant.
 8. **16 March 2020**: Welcome Mozhgan Talebpour as my new RA.
