@@ -11,7 +11,9 @@ My team currently comprises of the following members whom I supervise directly:
 
 1. **Mahsa Abazari Kia**: Mahsa is currently funded by British Telecom and is exploring novel methods in multi-document text summarisation.
 
-2. **António Guilherme Correia**: [António](https://www.inesctec.pt/pt/pessoas/antonio-guilherme-correia) is currently based in [UTAD](https://www.utad.pt/en/), Portugal. He is exploring new methods to model scientific literature and how science has changed over time. He has published extensively in his research area with a paper getting nominated for the best paper award.
+2. **Mozhgan Talebpour**: Mozhgan is currently an RA on a KTP project with a company. Mozhgan is exploring computational methods to model heterogeneous datasets.
+
+3. **António Guilherme Correia**: [António](https://www.inesctec.pt/pt/pessoas/antonio-guilherme-correia) is currently based in [UTAD](https://www.utad.pt/en/), Portugal. He is exploring new methods to model scientific literature and how science has changed over time. He has published extensively in his research area with a paper getting nominated for the best paper award.
 
 I also actively collaborate with the leading people in the academia and industries such as:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
@@ -22,6 +24,6 @@ I also actively collaborate with the leading people in the academia and industri
 
 4. **Professor Wai Lam**: I started my research under [his](http://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/) supervision at the Chinese University of Hong Kong. Under his supervision, I have published in various premier conferences and journals. I was a member of the [Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/) and still work with him and his students on various topics involving text.
 
-5. **Yan Kun**: With Yan, who is currently associated with Peking University, works in topics such as image processing. We are together exploring how text information could help improve various tasks in image processing.
+5. **Yan Kun**: With Yan, who is currently associated with [Peking University](http://english.pku.edu.cn/), works in topics such as image processing. We are together exploring how text information could help improve various tasks in image processing.
 
 I have also collaborated with some other active researchers such as [Jose](http://josecamachocollados.com/) and [Luis](https://luisespinosa.bitbucket.io/) both based in Cardiff University.
