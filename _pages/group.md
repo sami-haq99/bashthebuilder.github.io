@@ -20,4 +20,8 @@ I also actively collaborate with the leading people in the academia and industri
 
 3. **Zied Bouraoui**: [Zied](http://www.cril.univ-artois.fr/~bouraoui/index.html) who is based in CRIL, France. I had got an opportunity to work with Zied at [Cardiff University](https://www.cardiff.ac.uk/).
 
+4. **Professor Wai Lam**: I started my research under [his](http://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/) supervision at the Chinese University of Hong Kong. Under his supervision, I have published in various premier conferences and journals. I was a member of the [Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/) and still work with him and his students on various topics involving text.
+
+5. **Yan Kun**: With Yan, who is currently associated with Peking University, works in topics such as image processing. We are together exploring how text information could help improve various tasks in image processing.
+
 I have also collaborated with some other active researchers such as [Jose](http://josecamachocollados.com/) and [Luis](https://luisespinosa.bitbucket.io/) both based in Cardiff University.
