@@ -9,7 +9,7 @@ I am always keen to hear from potential candidates who are interested to join my
 
 My team currently comprises of the following members whom I supervise directly:
 
-1. **Mahsa Abazari Kia**: Mahsa is currently funded by British Telecom and is exploring novel methods in multi-document text summarisation.
+1. **Mahsa Abazari Kia**: Mahsa is currently funded by [British Telecom](https://www.bt.com/) and is exploring novel methods in multi-document text summarisation.
 
 2. **Mozhgan Talebpour**: Mozhgan is currently an RA on a KTP project with a company. Mozhgan is exploring computational methods to model heterogeneous datasets.
 
