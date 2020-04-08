@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+12. **8 April 2020**: I am leading a £350k project with a company in London.
 11. **26 March 2020**: I am on the Programme Committees of [AACL-IJCNLP 2020](http://aacl2020.org/) and [EMNLP 2020](https://2020.emnlp.org/)
 10. **16 March 2020**: I am serving on the reviewer panel in [Computational Linguistics](https://www.mitpressjournals.org/loi/coli) journal.
 9. **16 March 2020**: I am one of the Co-PIs in the [TT-Education](https://www.tteducation.co.uk/primary/about-us/)'s KTP grant.
