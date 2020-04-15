@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+13. **15 April 2020**: My student Antonio has been awarded the PARSUK [Xperience](https://en.parsuk.pt/xperience) scholarship.
 12. **8 April 2020**: I am leading a £350k project with a company in London for the next three years.
 11. **26 March 2020**: I am on the Programme Committees of [AACL-IJCNLP 2020](http://aacl2020.org/) and [EMNLP 2020](https://2020.emnlp.org/)
 10. **16 March 2020**: I am serving on the reviewer panel in [Computational Linguistics](https://www.mitpressjournals.org/loi/coli) journal.
