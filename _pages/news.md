@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+14. **17 April 2020**: I am on the programme committee of [CBMS 2020](http://www.cbms2020.org/).
 13. **15 April 2020**: My visiting PhD student Antonio has been awarded the PARSUK [Xperience](https://en.parsuk.pt/xperience) scholarship.
 12. **8 April 2020**: I am leading a £350k project with a company in London for the next three years.
 11. **26 March 2020**: I am on the Programme Committees of [AACL-IJCNLP 2020](http://aacl2020.org/) and [EMNLP 2020](https://2020.emnlp.org/)
