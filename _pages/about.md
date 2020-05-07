@@ -18,4 +18,4 @@ My [PhD thesis](/files/ShoaibJameelPhDThesis.pdf) (and here is the [summary](/fi
 
 [**Research Keywords**] Machine learning, data mining, text mining, information retrieval, word embeddings, deep learning, graphical models, Bayesian non-parametrics, online social networks.
 
-<span style="color:red"> *I am actively looking for PhD students who would love to be challenged every day during their PhD study. In return, you will get the freedom to explore your research topics, explore collaboration outside my research network, among various others. If you are a prospective student, please feel free to discuss your PhD proposal with me.* </span>
+<span style="color:red"> *If you are a prospective PhD student willing to join my team, and who would love to be challenged every day during your PhD, then please get in touch with me. In return, you will get the freedom to explore your research topics, explore collaboration outside my research network, among various others. If you are a prospective student, please feel free to discuss your PhD proposal with me.* </span>
