@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-16. **6 June 2020**: I am on the PC committee of [WSDM-2021](http://www.wsdm-conference.org/2021/).
+16. **6 June 2020**: I am on the Programme Committee of [WSDM-2021](http://www.wsdm-conference.org/2021/).
 15. **25 May 2020**: I have teamed up with some of the world's leading researchers with complemetary research expertise and have proposed a journal special issue surrounding COVID-19 and its effect on social lives. Please find call for papers [here](http://www.ieeesmc.org/publications/transactions-on-computational-social-systems/call-for-papers-and-special-issues).
 14. **17 April 2020**: I am on the programme committee of [CBMS 2020](http://www.cbms2020.org/).
 13. **15 April 2020**: My visiting PhD student Antonio has been awarded the PARSUK [Xperience](https://en.parsuk.pt/xperience) scholarship.
