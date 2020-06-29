@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+19. **29 June 2020**: I have passed my [PGCHE](https://www.kent.ac.uk/teaching/qualifications/pgche/) with Distinctions in two modules.<img src="/images/PGCHE.png" width="400">
 18. **12 June 2020**: We have secured an [INESC TEC's](https://www.inesctec.pt/en) Internal Seed Projects grant. The grant has my PhD student, Antonio, whom I am co-supervising as a Co-PI while I am acting as one of the collaborators from the UK. The aim of this project is to incorporate crowd-AI hybrids into the INESC TEC's internal system called [Authenticus](https://www.authenticus.pt/). A total of £32,248 will also be used for hiring a [UTAD](https://www.utad.pt/en/) student as a developer.
 17. **10 June 2020**: I am on the reviewer board of [Information](https://www.mdpi.com/journal/information).
 16. **6 June 2020**: I am on the Programme Committee of [WSDM-2021](http://www.wsdm-conference.org/2021/).
