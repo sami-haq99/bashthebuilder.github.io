@@ -9,11 +9,13 @@ I am always keen to hear from potential candidates who are interested to join my
 
 My team currently comprises of the following members whom I supervise directly:
 
-1. **Mahsa Abazari Kia**: Mahsa is currently funded by [British Telecom](https://www.bt.com/) and is exploring novel methods in multi-document text summarisation.
+1. **Mahsa Abazari Kia**: Mahsa is currently funded by [BT](https://www.bt.com/) (formerly British Telecom) and is exploring novel methods in multi-document text summarisation.
 
 2. **Mozhgan Talebpour**: Mozhgan is currently an RA on a KTP project with a company. Mozhgan is exploring computational methods to model heterogeneous datasets.
 
 3. **António Guilherme Correia**: [António](https://www.inesctec.pt/pt/pessoas/antonio-guilherme-correia) is currently based in [UTAD](https://www.utad.pt/en/), Portugal. He is exploring new methods to model scientific literature and how science has changed over time. He has published extensively in his research area with a paper getting nominated for the best paper award.
+
+4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to learn depression detection on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
 
 I also actively collaborate with the leading people in the academia and industries such as:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
