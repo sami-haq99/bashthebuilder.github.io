@@ -4,8 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-23. **07 July 2020**: Pre-print of our latest paper covering COVID-19 and depression is now [online](https://arxiv.org/abs/2007.02325). This work has been conducted in collaboration with researchers from [UTS](https://www.uts.edu.au/).
-22. **07 July 2020**: We have an exciting new Knowledge Transfer Partnership (KTP) proposal accepted which also has [John Woods](https://www.essex.ac.uk/people/woods19406/john-woods) and [Haider Raza](http://sagihaider.com/).
+23. **07 July 2020**: Pre-print of our latest paper covering COVID-19 and depression is now [online](https://arxiv.org/abs/2007.02325). This work has been conducted in collaboration with researchers at [UTS](https://www.uts.edu.au/).
+22. **07 July 2020**: We have an exciting new Knowledge Transfer Partnership (KTP) proposal accepted which has [John Woods](https://www.essex.ac.uk/people/woods19406/john-woods) and [Haider Raza](http://sagihaider.com/).
 21. **03 July 2020**: My PhD student, Antonio, is [conducting study](https://reality.utad.net/pybossa//project/AuthCrowd/newtask) about the use of crowdsourcing for author name disambiguation and entity matching in heterogeneous bibliographic networks. Your participation takes around 5 minutes to complete. Please register and participate.
 20. **03 July 2020**: I am now co-supervising Hamad A Zogan at the University of Technology Sydney along with [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0).
 19. **29 June 2020**: I have passed my [PGCHE](https://www.kent.ac.uk/teaching/qualifications/pgche/) with Distinctions in two modules.<img src="/images/PGCHE.png">
