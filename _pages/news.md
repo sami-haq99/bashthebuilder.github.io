@@ -4,7 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-24. **08 July 2020**: <img src="/images/mdpi.png" width="400">
+24. **08 July 2020**: Why not put it here to showcase that this page is regularly updated!
+<img src="/images/mdpi.png" width="400">
 23. **07 July 2020**: Pre-print of our latest paper covering COVID-19 and depression is now [online](https://arxiv.org/abs/2007.02325). This work has been conducted in collaboration with researchers at [UTS](https://www.uts.edu.au/).
 22. **07 July 2020**: We have an exciting new Knowledge Transfer Partnership (KTP) proposal accepted which has [John Woods](https://www.essex.ac.uk/people/woods19406/john-woods) and [Haider Raza](http://sagihaider.com/).
 21. **03 July 2020**: My PhD student, Antonio, is [conducting study](https://reality.utad.net/pybossa//project/AuthCrowd/newtask) about the use of crowdsourcing for author name disambiguation and entity matching in heterogeneous bibliographic networks. Your participation takes around 5 minutes to complete. Please register and participate.
