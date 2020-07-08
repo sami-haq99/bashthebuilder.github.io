@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+25. **08 July 2020**: Depression detection using multi-modal features using a hybrid deep learning model is now [online](https://arxiv.org/abs/2007.02847).
 24. **08 July 2020**: Why not put it here to showcase that this page is regularly updated!
 <img src="/images/mdpi.png" width="400">
 23. **07 July 2020**: Pre-print of our latest paper covering COVID-19 and depression is now [online](https://arxiv.org/abs/2007.02325). This work has been conducted in collaboration with researchers at [UTS](https://www.uts.edu.au/).
