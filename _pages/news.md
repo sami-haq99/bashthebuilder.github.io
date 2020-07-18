@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+26. **18 July 2020**: I am on the Programme Committee of [EACL 2021](https://2021.eacl.org/).
 25. **08 July 2020**: Depression detection using multi-modal features with a hybrid deep learning model is now [online](https://arxiv.org/abs/2007.02847). This work is done in collarabotion with researchers at [UTS](https://www.uts.edu.au/).
 24. **08 July 2020**: Why not put it here to showcase that this page is regularly updated!
 <img src="/images/mdpi.png" width="400">
