@@ -26,7 +26,7 @@ I also actively collaborate with the leading people in the academia and industri
 
 4. **Professor Wai Lam**: I started my research under [his](http://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/) supervision at the Chinese University of Hong Kong. Under his supervision, I have published in various premier conferences and journals. I was a member of the [Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/) and still work with him and his students on various topics involving text.
 
-5. **Yan Kun**: With Yan, who is currently associated with [Peking University](http://english.pku.edu.cn/), works in topics such as image processing. We are together exploring how text information could help improve various tasks in image processing.
+5. **Yan Kun**: With Yan, who is currently associated with [Peking University](http://english.pku.edu.cn/), works in topics such as image processing. We are together exploring how text information could help improve various tasks in image processing. Kun is a studen of [Professor Ping Wang](https://ieeexplore.ieee.org/author/37086128791).
 
 6. **Professor Guandong Xu**: I have also recently started collaboration with [Prof. Xu](https://www.uts.edu.au/staff/guandong.xu) and his [group](http://dsmi.tech/). Working with his group gives me opportunities to explore novel methods which could be applied to real-world tasks on social media and other datasets.
 
