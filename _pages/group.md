@@ -17,7 +17,7 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to discover depression on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
 
-I also actively collaborate with the leading people in the academia and industries such as:
+I also actively collaborate with the leading people in the academia and industries, for example:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
 
 2. **Lidong Bing**: [Lidong](https://lidongbing.github.io/) is based in Alibaba DAMO Academy in Singapore. He is not only my collaborator but also a very close friend. He is an active researcher publishing consistently in leading venues.
