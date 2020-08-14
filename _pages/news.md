@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+29. **14 August 2020:** I am on the Programme Committee of [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
 28. **26 July 2020**: I am on the Reviewer Board of [Algorithms](https://www.mdpi.com/journal/algorithms).
 27. **20 July 2020**: We have been awarded an [Essex Innovation Voucher](https://www.essex.ac.uk/business/expertise/funding-opportunities/innovation-vouchers) with a job search startup company. I am the PI on the project.
 26. **18 July 2020**: I am on the Programme Committee of [EACL 2021](https://2021.eacl.org/).
