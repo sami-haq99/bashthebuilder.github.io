@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+31. **1 September 2020**: I am on the Programme Committee of [COLING 2020](https://coling2020.org/).
 30. **26 August 2020**: There is an exciting opportunity if you want to work closely with me. [Here](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA) are the job details.
 29. **14 August 2020**: I am on the Programme Committee of [AAAI-2021](https://aaai.org/Conferences/AAAI-21/).
 28. **26 July 2020**: I am on the Reviewer Board of [Algorithms](https://www.mdpi.com/journal/algorithms).
