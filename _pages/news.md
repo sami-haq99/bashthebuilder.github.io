@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+33. **11 September 2020**: I am now a Fellow of the HEA ([FHEA](https://www.advance-he.ac.uk/fellowship/fellowship?PageSpeed=noscript)).
 32. **4 September 2020**: There is another exciting [job opportunity](https://hrorganiser.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=353898MjBK&WVID=9918109NEm&LANG=USA) to work with me on NLP-related problems.
 31. **1 September 2020**: I am on the Programme Committee of [COLING 2020](https://coling2020.org/).
 30. **26 August 2020**: There is an exciting opportunity if you want to work closely with me. [Here](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA) are the job details.
