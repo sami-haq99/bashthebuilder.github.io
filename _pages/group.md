@@ -15,6 +15,8 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 3. **António Guilherme Correia**: [António](https://www.inesctec.pt/pt/pessoas/antonio-guilherme-correia) is currently based in [UTAD](https://www.utad.pt/en/), Portugal. He is exploring new methods to model scientific literature and how science has changed over time. He has published extensively in his research area with a paper getting nominated for the best paper award.
 
+4. **Reyhaneh Hashempour**: [Reyhaneh](https://www.essex.ac.uk/people/HASHE58103) is a PhD student and a KTP Associate. She is working on exploring novel embeddings methods for phrases.
+
 4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to discover depression on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
 
 I also actively collaborate with the leading people in the academia and industries, for example:
