@@ -42,6 +42,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 
 # **4. Neural Text Generation**
 <img src="/images/text_generation.png" width="400"> <img src="/images/model_neural.png" width="400">
+
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
 | 2020 | Dynamic Topic Tracker for KB-to-Text Generation | COLING | [PDF](/files/coling2020.pdf) |
