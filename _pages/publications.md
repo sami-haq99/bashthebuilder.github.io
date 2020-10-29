@@ -41,7 +41,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2018 | Unsupervised Learning of Distributional Relation Vectors | ACL | [PDF](https://www.aclweb.org/anthology/P18-1003/) |
 
 # **4. Neural Text Generation**
-<img src="/images/text_generation.png" width="400"> <img src="/images/model_neural.png" width="400">
+<img src="/images/text_generation.png" width="400"> <img src="/images/model_neural.png" width="400" height="auto">
 
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
