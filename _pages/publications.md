@@ -40,7 +40,14 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2018 | Relation Induction in Word Embeddings Revisited | COLING | [PDF](https://www.aclweb.org/anthology/C18-1138/) |
 | 2018 | Unsupervised Learning of Distributional Relation Vectors | ACL | [PDF](https://www.aclweb.org/anthology/P18-1003/) |
 
-# **4. Human-Machine Cooperation and Systems**
+# **4. Neural Text Generation**
+<img src="/images/text_generation.png" width="400"> <img src="/images/model_neural.png" width="400">
+| Year | Paper Title | Venue | PDF |
+|-------|--------|---------|---------|
+| 2020 | Dynamic Topic Tracker for KB-to-Text Generation | COLING | [PDF](/files/coling2020.pdf) |
+
+
+# **5. Human-Machine Cooperation and Systems**
 <img src="/images/antoio_human.png" width="500">
 
 | Year | Paper Title | Venue | PDF |
@@ -49,7 +56,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2019 | Development of a Crowd-powered System Architecture for Knowledge Discovery in Scientific Domains | SMC | [PDF](/files/Paper_SciCrowd_IEEE_SMC_2019_final_version.pdf) |
 | 2019 | Hybrid Machine-crowd Interaction for Handling Complexity: Steps Toward a Scaffolding Design Framework | HCI Springer | [PDF](/files/Book_Chapter_Macrotask_Crowdsourcing.pdf)
 
-# **5. Urban Human Computing**
+# **6. Urban Human Computing**
 <img src="/images/urban_computing.png" width="500">
 
 | Year | Paper Title | Venue | PDF |
@@ -57,7 +64,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2016 | Exploring Urban Lifestyles Using a Nonparametric Temporal Graphical Model | ICTIR | [PDF](http://orca.cf.ac.uk/93261/1/ictir110-jameelA.pdf) |
 | 2015 | Abstract Venue Concept Detection from Location-Based Social Networks | AIRS | [PDF](/files/airs-yiliao.pdf) |
 
-# **6. Collaboration Systems and Technologies**
+# **7. Collaboration Systems and Technologies**
 <img src="/images/antonio_cswd.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
@@ -66,7 +73,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2019 | Theoretical Underpinnings and Practical Challenges of Crowdsourcing as a Mechanism for Academic Study | HICSS | [PDF](/files/HICSS20.pdf) |
 
 
-# **7. Posterior Regularisation using Graphical Models**
+# **8. Posterior Regularisation using Graphical Models**
 <img src="/images/posterior_reg.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -74,7 +81,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2015 | A Unified Posterior Regularized Topic Model with Maximum Margin for Learning-to-Rank | CIKM | [PDF](http://orca.cf.ac.uk/84841/1/cikm2015_shoaib.pdf) |
 | 2015 | Supervised Topic Models with Word Order Structure for Document Classification and Retrieval Learning | IRJ | [PDF](/files/irj-shoaib.pdf) |
 
-# **8. Readability with Word Order**
+# **9. Readability with Word Order**
 <img src="/images/mario_model.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -85,7 +92,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 |2012 | Ranking Text Documents based on Conceptual Difficulty using Term Embedding and Sequential Discourse Cohesion | WIC | [PDF](/files/wi-2012.pdf)
 |2011 | An unsupervised ranking method based on a technical difficulty terrain | CIKM | [PDF](/files/cikm_2011.pdf)
 
-# **9. Structured Topic Models**
+# **10. Structured Topic Models**
 <img src="/images/topic_time_word.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
@@ -93,7 +100,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2013 | An N-gram Topic Model for Time-Stamped Documents | ECIR | [PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9DA1CA7BC27BA63C5B1B6BCD4FE20197?doi=10.1.1.723.9173&rep=rep1&type=pdf) |
 | 2013 | An Unsupervised Topic Segmentation Model Incorporating Word Order | SIGIR | [PDF](/files/sigir_2013.pdf) |
 
-# **10. Bayesian Non-parametrics**
+# **11. Bayesian Non-parametrics**
 <img src="/images/nonparametric_word_order.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
