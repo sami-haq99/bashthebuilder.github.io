@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+38. **16 November 2020**: A full paper appearing in [ISDA 2020](http://www.mirlabs.org/isda20/).
 37. **09 November 2020**: I am on the PC of [SIGIR 2021](http://sigir.org/sigir2021/).
 36. **3 November 2020**: A full paper appearing in [IEEE BigData 2020](https://bigdataieee.org/BigData2020/).
 35. **29 October 2020**: A full paper appearing in [COLING 2020](https://coling2020.org/). [Here](/files/coling2020.pdf) is the camera ready version.
