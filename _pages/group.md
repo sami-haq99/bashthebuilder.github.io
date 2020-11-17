@@ -11,7 +11,7 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 1. **Mahsa Abazari Kia**: Mahsa is currently funded by [BT](https://www.bt.com/) (formerly British Telecom) and is exploring novel methods in multi-document text summarisation.
 
-2. **Mozhgan Talebpour**: Mozhgan is currently an RA on a KTP project with a company. Mozhgan is exploring computational methods to model heterogeneous datasets.
+2. **Mozhgan Talebpour**: Mozhgan is currently an RA on a KTP project with a company and a PhD student. Mozhgan is exploring computational methods to model heterogeneous datasets.
 
 3. **António Guilherme Correia**: [António](https://www.inesctec.pt/pt/pessoas/antonio-guilherme-correia) is currently based in [UTAD](https://www.utad.pt/en/), Portugal. He is exploring new methods to model scientific literature and how science has changed over time. He has published extensively in his research area with a paper getting nominated for the best paper award.
 
