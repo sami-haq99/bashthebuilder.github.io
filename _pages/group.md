@@ -23,6 +23,8 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 5. **Ebe Etiobhio**: Ebe is an intern who is working with me in developing a search system for Fintex Ltd., a company with whom I am collaborating with developing their state-of-the-art "artificially intelligent" job search module.
 
+6. **Yogesh Kumar Meena**: (starting February 2021). [Yogesh](https://scholar.google.co.uk/citations?user=5xxepFkAAAAJ&hl=en) will work on an Innovate UK sponsored project with [Mersea Homes](https://www.merseahomes.co.uk/), co-supervised by [Haider](http://sagihaider.com/) and me.
+
 I also actively collaborate with the leading people in the academia and industries, for example:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
 
