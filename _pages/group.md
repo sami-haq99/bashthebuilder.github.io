@@ -7,7 +7,7 @@ author_profile: true
 
 I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing, information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning.
 
-My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects and funded PhD scholarship from BT and the University of Essex.
+<em>My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects and funded PhD scholarship from BT and the University of Essex.</em>
 
 My team currently comprises of the following members whom I supervise or co-supervise directly:
 
