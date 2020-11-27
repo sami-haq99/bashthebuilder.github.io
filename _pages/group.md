@@ -7,7 +7,7 @@ author_profile: true
 
 I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing, information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning.
 
-<em>My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects and funded PhD scholarship from BT and the University of Essex.</em>
+<em>My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects, innovation grants, and funded PhD scholarship from BT and the University of Essex.</em>
 
 My team currently comprises of the following members whom I supervise or co-supervise directly:
 
@@ -20,6 +20,8 @@ My team currently comprises of the following members whom I supervise or co-supe
 4. **Reyhaneh Hashempour**: [Reyhaneh](https://www.essex.ac.uk/people/HASHE58103) is a PhD student and a KTP Associate. She is working on exploring novel embeddings methods for phrases.
 
 4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to discover depression on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
+
+5. **Ebe Etiobhio**: Ebe is an intern who is working with me in developing a search system for Fintex Ltd., a company with whom I am collaborating with developing their state-of-the-art "artificially intelligent" job search module.
 
 I also actively collaborate with the leading people in the academia and industries, for example:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
