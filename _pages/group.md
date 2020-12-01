@@ -5,9 +5,9 @@ permalink: /group/
 author_profile: true
 ---
 
-I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing, information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning.
+I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing (NLP), information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning. So, please feel free to get in touch if you are passionate about Mathematics or like solving interesting problems around search and NLP.
 
-<em>My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects, innovation grants, and funded PhD scholarship from BT and the University of Essex.</em>
+<em>My team is funded by various government and industrial grants. For instance, currently, my team is supported by different Innovate UK sponsored projects, innovation grants, and funded PhD scholarship from BT and the University of Essex.</em>
 
 My team currently comprises of the following members whom I supervise or co-supervise directly:
 
@@ -21,9 +21,15 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to discover depression on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
 
-5. **Ebe Etiobhio**: Ebe is an intern who is working with me in developing a search system for Fintex Ltd., a company with whom I am collaborating with developing their state-of-the-art "artificially intelligent" job search module.
+5. **Ebe Etiobhio**: Ebe is an undergraudate intern who is working with me in developing a search system for Fintex Ltd., the company with whom I am collaborating with developing their state-of-the-art "artificially intelligent" job search module.
 
-6. **Yogesh Kumar Meena**: (starting February 2021). [Yogesh](https://scholar.google.co.uk/citations?user=5xxepFkAAAAJ&hl=en) will work on an Innovate UK sponsored project with [Mersea Homes](https://www.merseahomes.co.uk/), co-supervised by [Haider](http://sagihaider.com/) and me.
+6. **Yogesh Kumar Meena**: (starting February 2021 as a post-doctoral research associate). [Yogesh](https://scholar.google.co.uk/citations?user=5xxepFkAAAAJ&hl=en) will work on an Innovate UK sponsored project with [Mersea Homes](https://www.merseahomes.co.uk/), co-supervised by [Haider](http://sagihaider.com/) and me.
+
+7. **Raj Hazarika**, **Rogin Robert**, **Nikita Dodenko**: They will start (in 2021) working on an MSc project in collaboration with BT where the goal is to develop a novel recommender system for live shows.
+
+8. **Yuxi Zhou**: Yuxi is an MSc student who will work on computational methods to solve mathematicall problems using deep learning.
+
+9. **Mano Vishwanathan**: Mano will start working on an MSc project where the goal is to conduct human-like reasoning with images.
 
 I also actively collaborate with the leading people in the academia and industries, for example:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
