@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+40. **17 December 2020**: I am on the Programme Committee of [SIGIR-2021](https://sigir.org/sigir2021/).
 39. **14 December 2020**: I have been awarded a [GCRF Research Grant](https://www.essex.ac.uk/research/gcrf) of £30,000 to pursue research with an Indian NGO, [Pratham Books](https://prathambooks.org/). We will introduce a novel concept of geo-localising and automatically style transferring images for their story books.
 38. **16 November 2020**: A full paper appearing in [ISDA 2020](http://www.mirlabs.org/isda20/).
 37. **09 November 2020**: I am on the PC of [SIGIR 2021](http://sigir.org/sigir2021/).
