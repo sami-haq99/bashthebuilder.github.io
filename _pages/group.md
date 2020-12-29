@@ -7,7 +7,7 @@ author_profile: true
 
 I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing (NLP), information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning. So, please feel free to get in touch if you are passionate about Mathematics or like solving interesting problems around search and NLP.
 
-<em>My team is funded by various government and industrial grants. For instance, currently, my team is supported by different Innovate UK sponsored projects, innovation grants, and funded PhD scholarship from BT and the University of Essex.</em>
+<em>My team is funded by various government and industrial grants. Currently, my team is supported by different Innovate UK sponsored projects, innovation grants, and funded PhD scholarship from BT and the University of Essex.</em>
 
 My team currently comprises of the following members whom I supervise or co-supervise directly:
 
