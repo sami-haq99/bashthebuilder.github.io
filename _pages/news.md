@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+42. **29 December 2020**: I am on the Programme Committee of [SIGKDD-2021](https://www.kdd.org/kdd2021/).
 41. **23 December 2020**: A paper on studying depression dynamics is set to appear in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/publications/transactions-on-computational-social-systems). [Here](https://arxiv.org/pdf/2007.02325.pdf) is the pre-print.
 40. **17 December 2020**: I am on the Programme Committee of [SIGIR-2021](https://sigir.org/sigir2021/).
 39. **14 December 2020**: I have been awarded a [GCRF Research Grant](https://www.essex.ac.uk/research/gcrf) of £30,000 to pursue research with an Indian NGO, [Pratham Books](https://prathambooks.org/). We will introduce a novel concept of geo-localising and automatically style transferring images for their story books.
