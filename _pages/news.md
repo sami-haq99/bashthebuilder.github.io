@@ -4,6 +4,9 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+46. **11 February 2021**: Our recent work on depression dynamics was recently highlighted by various media outlets. [Here](https://www.gazette-news.co.uk/news/19068066.twitter-research-university-essex-shows-increase-depression-pandemic/) is one example.
+45. **11 February 2021**: I am speaking at the [BT AI Festival](https://aiglobalfestival.com/).
+44. **11 February 2021**: I am on the Programme Committee of [ACL](https://2021.aclweb.org/).
 43. **30 January 2021**: Full paper accepted at [ICASSP-2021](https://2021.ieeeicassp.org/). Here is the [PDF](/files/ICASSP2021_paper.pdf).
 42. **29 December 2020**: I am on the Programme Committee of [SIGKDD-2021](https://www.kdd.org/kdd2021/).
 41. **23 December 2020**: A paper on studying depression dynamics is set to appear in [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/publications/transactions-on-computational-social-systems). [Here](https://arxiv.org/pdf/2007.02325.pdf) is the pre-print.
