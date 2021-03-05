@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+47. **5 March 2021**: Anastasia joins my NLP team as a Research Officer on my GCRF grant.
 46. **11 February 2021**: Our recent work on depression dynamics was recently highlighted by various media outlets. [Here](https://www.gazette-news.co.uk/news/19068066.twitter-research-university-essex-shows-increase-depression-pandemic/) is one example.
 45. **11 February 2021**: I am speaking at the [BT AI Festival](https://aiglobalfestival.com/).
 44. **11 February 2021**: I am on the Programme Committee of [ACL](https://2021.aclweb.org/).
