@@ -21,7 +21,7 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 4. **Hamad A Zogan**: [Hamad](https://sites.google.com/view/guandong-xu/stdeunts?authuser=0) is currently a PhD student at [University of Technology Sydney](https://www.uts.edu.au/). Hamad is exploring novel methods in machine learning to discover depression on social media. [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu/home?authuser=0) is the main supervisor with whom I am collaborating on various topics.
 
-5. **Ebe Etiobhio**: Ebe is an undergraudate intern who is working with me in developing a search system for Fintex Ltd., the company with whom I am collaborating with developing their state-of-the-art "artificially intelligent" job search module.
+5. **Anastasia Tomita**: Anastisia is currently working on my GCRF grant developing novel methodologies for image localisation.
 
 6. **Yogesh Kumar Meena**: (starting February 2021 as a post-doctoral research associate). [Yogesh](https://scholar.google.co.uk/citations?user=5xxepFkAAAAJ&hl=en) will work on an Innovate UK sponsored project with [Mersea Homes](https://www.merseahomes.co.uk/), co-supervised by [Haider](http://sagihaider.com/) and me.
 
