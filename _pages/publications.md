@@ -20,7 +20,7 @@ author_profile: true
 More details about these works can also be found in the [Flexilog](http://www.cs.cf.ac.uk/flexilog/) page.
 
 # **2. Depression Modelling on Online Social Networks**
-<img src="/images/tweets_activity.png" width="600"> <img src="/images/ryde_depression.png" width="600">
+<img src="/images/tweets_activity.png" width="550"> <img src="/images/ryde_depression.png" width="550">
 
 
 | Year | Paper Title | Venue | PDF |
