@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+51. **21 March 2021**: One full paper accepted at [ICMR 2021](http://www.acmicmr.org/). [Here](/files/http:/ICMR-2021.pdf) is the camera-ready version.
 50. **14 March 2021**: One full paper accepted at [SIGIR-2021](https://sigir.org/sigir2021/). Camera-ready and codes to be released soon.
 49. **31 March 2021**: Serving as a Programme Committee member at [EMNLP-2021](https://2021.emnlp.org/).
 48. **29 March 2021**: My PhD student Antonio wins the "Scientific Production Award" at UTAD, Portugal.
