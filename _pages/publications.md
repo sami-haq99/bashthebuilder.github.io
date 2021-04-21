@@ -22,13 +22,20 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 # **2. Depression Modelling on Online Social Networks**
 <img src="/images/tweets_activity.png" width="450"> <img src="/images/ryde_depression.png" width="450">
 
-
 | Year | Paper Title | Venue | PDF |
 |-------|--------|---------|---------|
 | 2020 | Detecting Community Depression Dynamics Due to COVID-19 Pandemic in Australia | IEEE TCSS | [PDF](https://arxiv.org/abs/2007.02325) |
 | 2021 | DepressionNet: Learning Multi-modalities with User Post Summarization for Depression Detection on Social Media | SIGIR | [PDF](https://core.ac.uk/download/pdf/74224821.pdf) |
 
-# **3. Playing with Word Vectors**
+# **3. Few-shot Image Classification with Contextual Language Models**
+<img src="/images/fsl.png" width="900">
+
+| Year | Paper Title | Venue | PDF |
+|-------|--------|---------|---------|
+| 2021 | Few-shot Image Classification with Multi-Facet Prototypes | ICASSP | [PDF](https://arxiv.org/abs/2102.00801) |
+| 2021 | Aligning Visual Prototypes with BERT Embeddings for Few-Shot Learning | ICMR | [PDF](/files/ICMR-2021.pdf) |
+
+# **4. Playing with Word Vectors**
 <img src="/images/word_embeddings_table.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -39,7 +46,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2017 | Jointly Learning Word Embeddings and Latent Topics | SIGIR | [PDF](https://arxiv.org/abs/1706.07276) |
 | 2016 | D-GloVe: A Feasible Least Squares Model for Estimating Word Embedding Densities | COLING | [PDF](https://www.aclweb.org/anthology/C16-1174/) |
 
-# **4. Relational Distributional Vectors**
+# **5. Relational Distributional Vectors**
 <img src="/images/relational_meronyms.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -48,7 +55,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2018 | Relation Induction in Word Embeddings Revisited | COLING | [PDF](https://www.aclweb.org/anthology/C18-1138/) |
 | 2018 | Unsupervised Learning of Distributional Relation Vectors | ACL | [PDF](https://www.aclweb.org/anthology/P18-1003/) |
 
-# **5. Neural Text Generation**
+# **6. Neural Text Generation**
 <img src="/images/text_generation.png" width="400"> <img src="/images/model_neural.png" width="400">
 
 | Year | Paper Title | Venue | PDF |
@@ -56,7 +63,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2020 | Dynamic Topic Tracker for KB-to-Text Generation | COLING | [PDF](/files/coling2020.pdf) |
 
 
-# **6. Human-Machine Cooperation and Systems**
+# **7. Human-Machine Cooperation and Systems**
 <img src="/images/antoio_human.png" width="500">
 
 | Year | Paper Title | Venue | PDF |
@@ -65,7 +72,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2019 | Development of a Crowd-powered System Architecture for Knowledge Discovery in Scientific Domains | SMC | [PDF](/files/Paper_SciCrowd_IEEE_SMC_2019_final_version.pdf) |
 | 2019 | Hybrid Machine-crowd Interaction for Handling Complexity: Steps Toward a Scaffolding Design Framework | HCI Springer | [PDF](/files/Book_Chapter_Macrotask_Crowdsourcing.pdf)
 
-# **7. Urban Human Computing**
+# **8. Urban Human Computing**
 <img src="/images/urban_computing.png" width="500">
 
 | Year | Paper Title | Venue | PDF |
@@ -73,7 +80,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2016 | Exploring Urban Lifestyles Using a Nonparametric Temporal Graphical Model | ICTIR | [PDF](http://orca.cf.ac.uk/93261/1/ictir110-jameelA.pdf) |
 | 2015 | Abstract Venue Concept Detection from Location-Based Social Networks | AIRS | [PDF](/files/airs-yiliao.pdf) |
 
-# **8. Collaboration Systems and Technologies**
+# **9. Collaboration Systems and Technologies**
 <img src="/images/antonio_cswd.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
@@ -82,7 +89,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2019 | Theoretical Underpinnings and Practical Challenges of Crowdsourcing as a Mechanism for Academic Study | HICSS | [PDF](/files/HICSS20.pdf) |
 
 
-# **9. Posterior Regularisation using Graphical Models**
+# **10. Posterior Regularisation using Graphical Models**
 <img src="/images/posterior_reg.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -90,7 +97,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2015 | A Unified Posterior Regularized Topic Model with Maximum Margin for Learning-to-Rank | CIKM | [PDF](http://orca.cf.ac.uk/84841/1/cikm2015_shoaib.pdf) |
 | 2015 | Supervised Topic Models with Word Order Structure for Document Classification and Retrieval Learning | IRJ | [PDF](/files/irj-shoaib.pdf) |
 
-# **10. Readability with Word Order**
+# **11. Readability with Word Order**
 <img src="/images/mario_model.png" width="900">
 
 | Year | Paper Title | Venue | PDF |
@@ -101,7 +108,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 |2012 | Ranking Text Documents based on Conceptual Difficulty using Term Embedding and Sequential Discourse Cohesion | WIC | [PDF](/files/wi-2012.pdf)
 |2011 | An unsupervised ranking method based on a technical difficulty terrain | CIKM | [PDF](/files/cikm_2011.pdf)
 
-# **11. Structured Topic Models**
+# **12. Structured Topic Models**
 <img src="/images/topic_time_word.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
@@ -109,7 +116,7 @@ More details about these works can also be found in the [Flexilog](http://www.cs
 | 2013 | An N-gram Topic Model for Time-Stamped Documents | ECIR | [PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9DA1CA7BC27BA63C5B1B6BCD4FE20197?doi=10.1.1.723.9173&rep=rep1&type=pdf) |
 | 2013 | An Unsupervised Topic Segmentation Model Incorporating Word Order | SIGIR | [PDF](/files/sigir_2013.pdf) |
 
-# **11. Bayesian Non-parametrics**
+# **13. Bayesian Non-parametrics**
 <img src="/images/nonparametric_word_order.png" width="800">
 
 | Year | Paper Title | Venue | PDF |
