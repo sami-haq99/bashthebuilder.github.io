@@ -4,6 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+53. **30 June 2021**: I am honoured to be one of the [outstanding early-career](https://www.essex.ac.uk/research/celebrating-our-researchers/2021) reseachers at Essex.
+52. **30 June 2021**: I am on the programme committee of CIKM-2021.
 51. **21 March 2021**: One full paper accepted at [ICMR 2021](http://www.acmicmr.org/). [Here](/files/ICMR-2021.pdf) is the camera-ready version.
 50. **14 March 2021**: One full paper accepted at [SIGIR-2021](https://sigir.org/sigir2021/). Camera-ready and codes to be released soon.
 49. **31 March 2021**: Serving as a Programme Committee member at [EMNLP-2021](https://2021.emnlp.org/).
