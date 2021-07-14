@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-54. **14 July 2021**: Congratulations to [Haider](http://sagihaider.com/) and his student Elena for their full paper at [UKCI 2021](https://ukci2021.dcs.aber.ac.uk/).
+54. **14 July 2021**: Congratulations to [Haider](http://sagihaider.com/) and his undergraduate student Elena for their full paper at [UKCI 2021](https://ukci2021.dcs.aber.ac.uk/).
 53. **30 June 2021**: I am honoured to be one of the [outstanding early-career](https://www.essex.ac.uk/research/celebrating-our-researchers/2021) reseachers at Essex.
 52. **30 June 2021**: I am on the programme committee of CIKM-2021.
 51. **21 March 2021**: One full paper accepted at [ICMR 2021](http://www.acmicmr.org/). [Here](/files/ICMR-2021.pdf) is the camera-ready version.
