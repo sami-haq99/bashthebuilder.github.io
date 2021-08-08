@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+56. **08 August 2021**: Full paper accepted at [CIKM-2021](https://www.cikm2021.org/). Here is a [copy](/files/CIKM_2021_paper_977.pdf).
 55. **16 July 2022**: I am on the programme committee of [ICLR 2022](https://iclr.cc/).
 54. **14 July 2021**: Congratulations to [Haider](http://sagihaider.com/) and his undergraduate student Elena for their full paper at [UKCI 2021](https://ukci2021.dcs.aber.ac.uk/). [Here](/files/Emojional.pdf) is the full paper.
 53. **30 June 2021**: I am honoured to be one of the [outstanding early-career](https://www.essex.ac.uk/research/celebrating-our-researchers/2021) reseachers at Essex.
