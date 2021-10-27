@@ -25,11 +25,6 @@ My team currently comprises of the following members whom I supervise or co-supe
 
 6. **Yogesh Kumar Meena**: (starting February 2021 as a post-doctoral research associate). [Yogesh](https://scholar.google.co.uk/citations?user=5xxepFkAAAAJ&hl=en) will work on an Innovate UK sponsored project with [Mersea Homes](https://www.merseahomes.co.uk/), co-supervised by [Haider](http://sagihaider.com/) and me.
 
-7. **Raj Hazarika**, **Rogin Robert**, **Nikita Dodenko**: They will start (in 2021) working on an MSc project in collaboration with BT where the goal is to develop a novel recommender system for live shows.
-
-8. **Yuxi Zhou**: Yuxi is an MSc student who will work on computational methods to solve mathematicall problems using deep learning.
-
-9. **Mano Vishwanathan**: Mano will start working on an MSc project where the goal is to conduct human-like reasoning with images.
 
 I also actively collaborate with the leading people in the academia and industries, for example:
 1. **Professor Steven Schockaert**: [He](https://www.cardiff.ac.uk/people/view/133772-schockaert-steven) is the main reason why I am in the United Kingdom. I got an opportunity to be a part of his Euro 1.5 million ERC Starting grant. Together we proposed several novel models to generate new vector spaces or word embeddings which we published in several prestigious venues.
