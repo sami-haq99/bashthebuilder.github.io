@@ -4,6 +4,8 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+60. **27 October 2021**: Our CIKM 2021 paper has been nominated for the [best paper](https://www.cikm2021.org/programme/best-paper-nominations) award.
+59. **27 October 2021**: One journal paper is accepted at IEEE Access. Camera-ready version coming soon.
 58. **27 August 2021**: I have been awarded a Quadro RTX 6000 through the NVIDIA Academic Hardware Grant Program. I will use this hardware in my recently funded project on automatically geo-localising artwork in children's story books. Thank you [NVIDIA](https://developer.nvidia.com/blog/accelerate-academic-research-and-curriculum-with-the-nvidia-hardware-grant-program/) for the award!
 57. **16 August 2021**: I am on the programme commitee of [WSDM 2022](https://www.wsdm-conference.org/2022/).
 56. **08 August 2021**: Full paper accepted at [CIKM-2021](https://www.cikm2021.org/). Here is a [copy](/files/CIKM_2021_paper_977.pdf).
