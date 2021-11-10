@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
-61. **05 November 2021**: Antonio has been awarded the prestigious [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). Very proud of the achievement!
+61. **05 November 2021**: Antonio has been awarded the prestigious [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). Very proud of the achievement! Antonio has also been featured in the [news media](https://bip.inesctec.pt/en/noticias/inesc-tec-researcher-is-the-first-portuguese-selected-for-the-microsoft-research-phd-fellowship-programme/).
 60. **27 October 2021**: Our CIKM 2021 paper has been nominated for the [best paper](https://www.cikm2021.org/programme/best-paper-nominations) award.
 59. **27 October 2021**: One journal paper is accepted at IEEE Access. Camera-ready version coming soon.
 58. **27 August 2021**: I have been awarded a Quadro RTX 6000 through the NVIDIA Academic Hardware Grant Program. I will use this hardware in my recently funded project on automatically geo-localising artwork in children's story books. Thank you [NVIDIA](https://developer.nvidia.com/blog/accelerate-academic-research-and-curriculum-with-the-nvidia-hardware-grant-program/) for the award!
