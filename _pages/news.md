@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+64. **08 December 2021**: I am on the [SIGIR 2022](https://sigir.org/sigir2022/) Programme Commitee.
 63. **01 December 2021**: Full paper accepted at [AAAI-2022](https://aaai.org/Conferences/AAAI-22/). Camera-ready version coming soon.
 62. **22 November 2021**: I am on the Programme Committee of [SIGKDD 2022](https://kdd.org/kdd2022/).
 61. **05 November 2021**: Antonio has been awarded the prestigious [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). Very proud of the achievement! Antonio has also been featured in the [news media](https://bip.inesctec.pt/en/noticias/inesc-tec-researcher-is-the-first-portuguese-selected-for-the-microsoft-research-phd-fellowship-programme/).
