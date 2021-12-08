@@ -4,6 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
+65. **08 December 2022**: I am shortlisted to be at Westminster via the [Royal Society Pairing Scheme 2022](https://royalsociety.org/grants-schemes-awards/pairing-scheme/).
 64. **08 December 2021**: I am on the [SIGIR 2022](https://sigir.org/sigir2022/) Programme Commitee.
 63. **01 December 2021**: Full paper accepted at [AAAI-2022](https://aaai.org/Conferences/AAAI-22/). Camera-ready version coming soon.
 62. **22 November 2021**: I am on the Programme Committee of [SIGKDD 2022](https://kdd.org/kdd2022/).
